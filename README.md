@@ -1,1 +1,1 @@
-Novelty Detections with X-ray Images of KitKat Chunky.
+Novelty Detections with X-ray Images.
