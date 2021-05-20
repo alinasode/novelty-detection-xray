@@ -9,4 +9,4 @@ Novelty detection based on training either a convolutional autoencoder (CAE) net
 
 - - - -
 
-If interested in the approach and pipeline, please reach out to me. Cheers!
+If further interested in the approach and pipeline, please reach out to me. Cheers!
