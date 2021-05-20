@@ -4,7 +4,7 @@ Representative code from my Master Thesis are accessible. No raw or preprocessed
 
 ### What type of Novelty Detection is employed? 
 
-Novelty detection based on training either a convolutional autoencoder (CAE) network or convolutional variational autoencoder (CVAE) network using only "normal" samples. Subsquently, computing statistical probability distributions based upon an *anomaly score*, an optimal threshold can then be automated by utilizing the G-mean. 
+Novelty detection based on training either a convolutional autoencoder (CAE) network or convolutional variational autoencoder (CVAE) network using only "normal" samples. Subsquently, computing statistical probability distributions based upon an *anomaly score*, an optimal threshold can then be automated by utilizing the G-mean. The threshold is used to distinguish between "normal" and "anomalous" samples.
 
 
 - - - -
