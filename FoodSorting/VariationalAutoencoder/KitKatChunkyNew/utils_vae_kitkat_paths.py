@@ -11,9 +11,6 @@ sys.path.insert(0, vaedir)
 parentdir = os.path.dirname(vaedir)
 sys.path.insert(0, parentdir)
 
-#evaldir = f'{currentdir}/evaluations'
-#sys.path.insert(0, evaldir)
-
 ##################################################
 # Define work direction for generated datasets   #
 ##################################################
