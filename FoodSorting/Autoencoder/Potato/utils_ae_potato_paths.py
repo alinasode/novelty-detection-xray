@@ -1,5 +1,4 @@
-import os, sys, inspect #, shutil
-#from os.path import join
+import os, sys, inspect
 
 #################################
 #    Define parent directory    #
@@ -18,10 +17,6 @@ sys.path.insert(0, parentdir)
 ##################################################
 
 PATH = f'{parentdir}/generated_dataset/Potato/'
-
-#PERFECT_AUG  = f'{PATH}/NormalAugmentations'
-#METAL_AUG    = f'{PATH}/Anomaly1Augmentations'
-#HOLLOW_AUG   = f'{PATH}/Anomaly2Augmentations'
 
 DATA_AUGMENTATION = f'{PATH}/DataAugmentation'
 NORMAL_TRAIN_AUG  = f'{DATA_AUGMENTATION}/NormalTrainAugmentations'
